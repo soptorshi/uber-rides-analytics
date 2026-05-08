@@ -60,10 +60,3 @@ The analysis highlights strong demand for economical ride options, consistent pr
 - Driver Ratings  
 - Time of Booking  
 
----
-
-## 🚀 How to Use
-1. Import dataset into SQL database  
-2. Run analysis queries  
-3. Generate aggregated insights  
-4. Visualize in BI tools (optional)  
